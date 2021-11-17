@@ -1,5 +1,7 @@
+import MainContent from 'components/main';
+
 const Main = () => {
-  return <div>main</div>;
+  return <MainContent />;
 };
 
 export default Main;
